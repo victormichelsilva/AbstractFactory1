@@ -1,0 +1,16 @@
+D:\Victor\Estudos\C#\AbstractFactory1\bin\Debug\net5.0\AbstractFactory1.exe
+D:\Victor\Estudos\C#\AbstractFactory1\bin\Debug\net5.0\AbstractFactory1.deps.json
+D:\Victor\Estudos\C#\AbstractFactory1\bin\Debug\net5.0\AbstractFactory1.runtimeconfig.json
+D:\Victor\Estudos\C#\AbstractFactory1\bin\Debug\net5.0\AbstractFactory1.runtimeconfig.dev.json
+D:\Victor\Estudos\C#\AbstractFactory1\bin\Debug\net5.0\AbstractFactory1.dll
+D:\Victor\Estudos\C#\AbstractFactory1\bin\Debug\net5.0\ref\AbstractFactory1.dll
+D:\Victor\Estudos\C#\AbstractFactory1\bin\Debug\net5.0\AbstractFactory1.pdb
+D:\Victor\Estudos\C#\AbstractFactory1\obj\Debug\net5.0\AbstractFactory1.csproj.AssemblyReference.cache
+D:\Victor\Estudos\C#\AbstractFactory1\obj\Debug\net5.0\AbstractFactory1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Victor\Estudos\C#\AbstractFactory1\obj\Debug\net5.0\AbstractFactory1.AssemblyInfoInputs.cache
+D:\Victor\Estudos\C#\AbstractFactory1\obj\Debug\net5.0\AbstractFactory1.AssemblyInfo.cs
+D:\Victor\Estudos\C#\AbstractFactory1\obj\Debug\net5.0\AbstractFactory1.csproj.CoreCompileInputs.cache
+D:\Victor\Estudos\C#\AbstractFactory1\obj\Debug\net5.0\AbstractFactory1.dll
+D:\Victor\Estudos\C#\AbstractFactory1\obj\Debug\net5.0\ref\AbstractFactory1.dll
+D:\Victor\Estudos\C#\AbstractFactory1\obj\Debug\net5.0\AbstractFactory1.pdb
+D:\Victor\Estudos\C#\AbstractFactory1\obj\Debug\net5.0\AbstractFactory1.genruntimeconfig.cache
